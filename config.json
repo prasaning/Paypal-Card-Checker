@@ -1,0 +1,9 @@
+{
+    "paypal_cookie": "cookie_check=yes; _ga=; cookie_prefs=; _gcl_au=; ; enforce_policy=ccpa; d_id=; _gid=; LANG=en_US%3BUS; TLTSID=; login_email=; GET THE COOKIES BY TRYING TO ADD A FAKE CARD AND LOOK AT THE NETWORK TAB COOKIES VALUE STRING",
+    "csrf_token": "SHOULD BE LOOKATED IN THE PAGE",
+    "billing_address_id": "1234567890123456 -> looks like this",
+    "productClass": "PREPAID -> example",
+    "brand": "visa -> card brand",
+    "expDate": "07/30 -> expDate",
+    "verificationCode": "000 -> cvv"
+}
