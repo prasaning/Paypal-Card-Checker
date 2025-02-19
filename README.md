@@ -1,6 +1,7 @@
 # PayPal Card Validator
 
-This is a Python script that validates a list of card numbers by interacting with the PayPal API. It checks the validity of credit cards using the PayPal service and logs the results into different files based on the outcome.
+This Python script was made as a checker for Cards on paypal accounts. This is pretty old and I don't think it works anymore.  
+I can't be asked to fix it either because it's really pointless.  Feel free to tweak it and fix it if you want.
 
 ## Features:
 - Reads card numbers from a file (`combo.txt`).
@@ -61,8 +62,9 @@ python Main.py
 5. Review the logs in `results.txt`, `declined.txt`, `failed.txt`, and `errorlog.txt` for the outcomes of each card.
 
 ## Disclaimer:
-This script is intended for educational and informational purposes only. Using this script to interact with any unauthorized services or attempt fraudulent activities is illegal and unethical. Please ensure you have permission to test and validate the cards.
+This script is intended for educational and informational purposes only.
 
 ## License:
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
+**I am not responsible for what you do with this code.**
 
